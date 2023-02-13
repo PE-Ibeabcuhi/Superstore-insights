@@ -7,10 +7,10 @@ Here are some of the important questions we would be looking into:
 
 
 # Libraries used:
-NumPy
-Pandas
-Matplotlib
-Seaborn
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
 
 # Prgramming language used:
-Python
+* Python
